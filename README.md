@@ -16,6 +16,8 @@
   <p><a href="https://render.qmuse.pub/p/muse/2413870555736078">官网 · render.qmuse.pub</a></p>
 </div>
 
+> 本 Fork 暂规划服务于人际关系管理和工作助理项目，获取微信渠道的上下文。具体接入待验证，详见[本 Fork 的用途规划](FORK-PLAN.zh-CN.md)。
+
 > [!NOTE]
 > 已发布经过 Developer ID 签名和 Apple 公证的 [WeChatBridge 0.1.15 DMG](https://github.com/freestylefly/WeChatBridge/releases/latest)。
 
